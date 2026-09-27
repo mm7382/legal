@@ -15,3 +15,9 @@ title: 法律文件
 - [支援與客服](ziwei/support)
 - [隱私權政策](ziwei/privacy)
 - [使用條款](ziwei/terms)
+
+## 時來－八字
+
+- [支援與客服](bazi/support)
+- [隱私權政策](bazi/privacy)
+- [使用條款](bazi/terms)
