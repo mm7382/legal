@@ -13,8 +13,7 @@ description: 時來－紫微是一款教你讀懂紫微斗數命盤的 iPhone Ap
   "applicationCategory": "EducationalApplication",
   "inLanguage": ["zh-Hant", "en"],
   "description": "教你讀懂紫微斗數命盤的 iPhone App：十二宮命盤、36 堂白話課程、每句標明古籍出處、命宮與朋友互看宮位。不算吉凶、不打分數。",
-  "url": "https://mm7382.github.io/legal/ziwei/",
-  "isPartOf": { "@type": "CreativeWorkSeries", "name": "命理學習 App：時來系列與易見", "url": "https://mm7382.github.io/legal/" }
+  "url": "https://mm7382.github.io/legal/ziwei/"
 }
 </script>
 
@@ -66,7 +65,7 @@ description: 時來－紫微是一款教你讀懂紫微斗數命盤的 iPhone Ap
 
 ## 聯絡
 
-[支援與客服](support) · [隱私權政策](privacy) · [使用條款](terms) · [其他 App](../)
+[支援與客服](support) · [隱私權政策](privacy) · [使用條款](terms)
 
 ---
 
@@ -80,4 +79,4 @@ SHILAI Ziwei builds your twelve-palace Zi Wei Dou Shu (Purple Star Astrology) ch
 - **Friend comparison**: see which of a friend's palaces your Life Palace falls in, and share it as a card without birth details.
 - No account. Your birth data stays on your phone.
 
-**Status: coming soon to the App Store.** [Other apps](../)
+**Status: coming soon to the App Store.**
