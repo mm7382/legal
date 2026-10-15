@@ -12,7 +12,7 @@ description: 時來－紫微是一款教你讀懂紫微斗數命盤的 iPhone Ap
   "operatingSystem": "iOS",
   "applicationCategory": "EducationalApplication",
   "inLanguage": ["zh-Hant", "en"],
-  "description": "教你讀懂紫微斗數命盤的 iPhone App：十二宮命盤、36 堂白話課程、每句標明古籍出處、命宮與朋友互看宮位。不算吉凶、不打分數。",
+  "description": "教你讀懂紫微斗數命盤的 iPhone App：十二宮命盤、36 堂白話課程、每句標明古籍出處。不算吉凶、不打分數。",
   "url": "https://mm7382.github.io/legal/ziwei/"
 }
 </script>
@@ -38,12 +38,11 @@ description: 時來－紫微是一款教你讀懂紫微斗數命盤的 iPhone Ap
 - **每句標明出處**：分成古籍原文（《紫微斗數全書》卷一至卷三，逐字核對）、白話轉述、本專案自撰三層。
 - **每堂練習**：理解題，加一題「在你自己的盤上找答案」。
 - **六項結構導讀**：命格、感情、事業、財富、流年、每月——只說看哪一宮、宮裡有哪些主星，不下好壞。
-- **朋友互看宮位**：例如「我的命宮落在你的哪一宮」，可做成不含生日的分享卡。
 
 ## 我們不做什麼
 
 - 不判吉凶、不打分數、不說兩人合不合、不推薦時辰。
-- 不需要帳號；出生資料只存在你的手機，不上傳、不追蹤、沒有廣告。
+- 不需要帳號；出生資料不上傳伺服器、不追蹤、沒有廣告。
 - 不知道出生時辰時，直接告訴你排不出來，不猜。
 
 ## 常見問題
@@ -76,7 +75,6 @@ SHILAI Ziwei builds your twelve-palace Zi Wei Dou Shu (Purple Star Astrology) ch
 - **Twelve-palace chart** with major stars, the Life and Body palaces, and the five elements phase.
 - **36 lessons**, from the palaces and the fourteen major stars to the four positions, decades, yearly and monthly layers. The first 3 are free.
 - **Six structural readings** (overview, relationships, career, money, this year, this month) that say which palace and which stars — no good-or-bad verdicts.
-- **Friend comparison**: see which of a friend's palaces your Life Palace falls in, and share it as a card without birth details.
-- No account. Your birth data stays on your phone.
+- No account. Your birth data is never uploaded to a server.
 
 **Status: coming soon to the App Store.**
