@@ -44,7 +44,7 @@ description: 時來－八字是一款教你看懂八字命盤的 iPhone App。20
 ## 我們不做什麼
 
 - 不判吉凶、不打分數、不排「最好的日子」。
-- 不需要註冊帳號，生日資料只存在你的手機。
+- 不需要註冊帳號，生日資料不會上傳到我們的伺服器。
 
 ## 常見問題
 
@@ -77,6 +77,6 @@ Shilai Bazi is an iPhone app that teaches you to read a Bazi (Four Pillars) char
 - **A daily practice question** on today's Ten God for your Day Master.
 - **Your chart, explained plainly**, plus personality, love and work themes and your 10-year luck cycles (subscription).
 - **A monthly report** on this month's Ten God; practice prompts and the monthly review need a subscription.
-- No account needed. Your birth data stays on your phone.
+- No account needed. Your birth data is never uploaded to our servers.
 
 [Download on the App Store](https://apps.apple.com/app/id6816792660)
