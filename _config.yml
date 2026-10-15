@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: 法律文件
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
