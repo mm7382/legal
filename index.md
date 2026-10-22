@@ -4,6 +4,11 @@ title: 法律文件
 
 # 法律文件
 
+## 排得好 ShiftOK
+
+- [支援與客服](shiftok/)
+- [隱私權政策](shiftok/privacy/)
+
 ## 易見
 
 - [支援與客服](yijian/support)
