@@ -22,6 +22,12 @@ title: 法律文件
 - [隱私權政策](ziwei/privacy)
 - [使用條款](ziwei/terms)
 
+## 時來－星座
+
+- [支援與客服](astrology/support)
+- [隱私權政策](astrology/privacy)
+- [使用條款](astrology/terms)
+
 ## 時來－八字
 
 - [支援與客服](bazi/support)
