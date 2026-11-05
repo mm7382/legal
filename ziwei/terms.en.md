@@ -21,7 +21,7 @@ The chart depends entirely on the birth details you enter. If you choose "not kn
 ## Subscriptions
 
 - Subscriptions are offered monthly or yearly. Both carry the same benefits and both renew automatically.
-- Member benefits: view the next seven days, create up to 5 charts, and track up to 3 topics per chart.
+- Membership includes lesson 4 onward and its exercises, lesson notes and bookmarks, the next seven days, five additional guided readings, and up to 10 charts.
 - Free users can view today's content, with a daily limit on lookups, and can create 1 chart.
 - If you do not cancel at least 24 hours before the renewal date, payment is taken automatically.
 - There is no free trial.
