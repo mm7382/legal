@@ -28,7 +28,7 @@ Subscription payments are handled by the Apple App Store. This app does not coll
 
 ## Deleting your data
 
-This app does not currently have an in-app "erase everything" button. To delete all local data, remove the app from your device; the charts and calculated results stored on the device are deleted with it. If you have iCloud Backup enabled, please also follow the backup instructions above.
+This app does not currently have an in-app "erase everything" button. Removing the app deletes charts and calculated results stored on the device; free-tier usage counters in Keychain may remain after removal. If you have iCloud Backup enabled, please also follow the backup instructions above.
 
 ## What this app does not do
 
