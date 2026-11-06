@@ -16,7 +16,7 @@ The interpretation rules in this app are still being researched and checked agai
 
 ## Accuracy of the chart
 
-The chart depends entirely on the birth details you enter. If you choose "not known" for the birth time, no Zi Wei chart can be generated. This app does not guarantee that a chart matches any particular school or printed text.
+The chart depends on the birth details you enter. If the birth time is unknown, the app generates a provisional chart using the Wu hour (11:00–12:59) and labels the time as assumed. The actual chart may differ; you can update the time when it becomes known. This app does not guarantee that a chart matches any particular school or printed text.
 
 ## Subscriptions
 
