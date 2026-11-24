@@ -53,6 +53,15 @@ title: 易見 — 支援與客服
 
 在 App 內刪除問卦記錄即可。刪除全部記錄前會要求驗證 Face ID 或裝置密碼，避免誤刪。
 
+## 更多資源
+
+- [易見 YiJian App 介紹](https://mm7382.github.io/yijian/)：八堂入門課、六十四卦導讀與互動練習。
+- [免費易經網頁版](https://mm7382.github.io/yijian-web/)：免登入起卦、六十四卦全文與入門課程。
+- [免費線上起卦](https://mm7382.github.io/yijian-web/cast/)：三枚銅錢起卦，依朱熹變占法讀本卦與之卦。
+- [2027 年度易經指南（全文免費）](https://mm7382.github.io/learn/2027-i-ching-year-guide.html)：地澤臨與一年的行動節奏。
+- [易經入門文章](https://mm7382.github.io/learn/)：陰陽爻、八卦、六十四卦與起卦解讀的白話說明。
+- [全部作品與免費工具](https://mm7382.github.io/)
+
 ## 相關文件
 
 - [隱私權政策](privacy)

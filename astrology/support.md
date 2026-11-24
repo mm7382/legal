@@ -56,6 +56,14 @@ App 不要求註冊，您和朋友的出生資料與筆記儲存在裝置本機�
 
 在「設定 → 刪除所有資料」一次清除，刪除後無法復原。
 
+## 更多資源
+
+- [時來－星座 App 介紹](https://mm7382.github.io/astrology/)：三十六堂課、功能與免費範圍。
+- [免費星盤網頁版](https://mm7382.github.io/astrology-web/)：免登入的 Placidus 出生星盤與三十六堂課。
+- [占星入門文章](https://mm7382.github.io/learn/)：太陽月亮上升、十二宮、四元素三模式、相位與逆行的白話說明。
+- [English app page](https://mm7382.github.io/astrology/en/)
+- [全部作品與免費工具](https://mm7382.github.io/)
+
 ## 相關文件
 
 - [隱私權政策](privacy)
