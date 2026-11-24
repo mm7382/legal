@@ -32,6 +32,14 @@ Not at the moment. This app has no widget and no push or local notifications.
 
 Yes. In Settings choose Follow system, Traditional Chinese, or English. Changing the language changes only the wording; it never changes your chart. The Heavenly Stems and Earthly Branches (干支／地支) are identical, character for character, in both languages.
 
+## More resources
+
+- [SHILAI Ziwei app page](https://mm7382.github.io/ziwei/en/): lessons, features and what is free.
+- [Free Zi Wei web tool](https://mm7382.github.io/ziwei-web/): twelve-palace chart and 36 lessons, no login.
+- [2027 Zi Wei Annual Guide (free full text)](https://mm7382.github.io/learn/en/2027-ziwei-year-guide.html): the Ding-Wei four transformations, money, work, relationships, wellbeing, colours and a seasonal plan.
+- [Zi Wei Dou Shu beginner articles](https://mm7382.github.io/learn/en/): palaces, Life and Body Palace, major stars and the four transformations.
+- [All apps and free tools](https://mm7382.github.io/en/)
+
 ## Legal documents
 
 - [Privacy Policy](privacy.en.html)
